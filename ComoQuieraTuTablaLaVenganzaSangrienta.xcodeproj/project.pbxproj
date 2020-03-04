@@ -14,6 +14,8 @@
 		CEE6AE7A241005C5009F4D53 /* ComoQuieraTuTablaLaVenganzaSangrienta.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = CEE6AE78241005C5009F4D53 /* ComoQuieraTuTablaLaVenganzaSangrienta.xcdatamodeld */; };
 		CEE6AE7C241005D0009F4D53 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CEE6AE7B241005D0009F4D53 /* Assets.xcassets */; };
 		CEE6AE7F241005D0009F4D53 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CEE6AE7D241005D0009F4D53 /* LaunchScreen.storyboard */; };
+		CEE6AE8724100ACF009F4D53 /* TableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEE6AE8624100ACF009F4D53 /* TableViewController.swift */; };
+		CEE6AE8924100B03009F4D53 /* ViewControllerDetalle.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEE6AE8824100B03009F4D53 /* ViewControllerDetalle.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +28,8 @@
 		CEE6AE7B241005D0009F4D53 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		CEE6AE7E241005D0009F4D53 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		CEE6AE80241005D0009F4D53 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		CEE6AE8624100ACF009F4D53 /* TableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TableViewController.swift; sourceTree = "<group>"; };
+		CEE6AE8824100B03009F4D53 /* ViewControllerDetalle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewControllerDetalle.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +66,8 @@
 				CEE6AE71241005C5009F4D53 /* SceneDelegate.swift */,
 				CEE6AE73241005C5009F4D53 /* ViewController.swift */,
 				CEE6AE75241005C5009F4D53 /* Main.storyboard */,
+				CEE6AE8624100ACF009F4D53 /* TableViewController.swift */,
+				CEE6AE8824100B03009F4D53 /* ViewControllerDetalle.swift */,
 				CEE6AE7B241005D0009F4D53 /* Assets.xcassets */,
 				CEE6AE7D241005D0009F4D53 /* LaunchScreen.storyboard */,
 				CEE6AE80241005D0009F4D53 /* Info.plist */,
@@ -143,7 +149,9 @@
 			files = (
 				CEE6AE74241005C5009F4D53 /* ViewController.swift in Sources */,
 				CEE6AE70241005C5009F4D53 /* AppDelegate.swift in Sources */,
+				CEE6AE8924100B03009F4D53 /* ViewControllerDetalle.swift in Sources */,
 				CEE6AE72241005C5009F4D53 /* SceneDelegate.swift in Sources */,
+				CEE6AE8724100ACF009F4D53 /* TableViewController.swift in Sources */,
 				CEE6AE7A241005C5009F4D53 /* ComoQuieraTuTablaLaVenganzaSangrienta.xcdatamodeld in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
